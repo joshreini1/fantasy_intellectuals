@@ -15,6 +15,8 @@ Input data will eventually come from blogs, podcasts, books, articles and twitte
 
 ## Scoring
 
+### Scoring Philosophy
+
 The following scoring mechanism is derived from Arnold Kling, stated in his post 'Fantasy Intellectual Teams: version 2.0'
 
 A scoring category should be a quantifiable indicator of the qualities we want in an intellectual. Qualitatively, what we seek to do is reward those who:
@@ -29,7 +31,7 @@ A scoring category should be a quantifiable indicator of the qualities we want i
 
 Rotisserie scoring will be used to ensure that each category matters. An owner cannot dominate a league by just picking intellectuals who pile up points in a single category.
 
-Categories for point scoring are as follows:
+### Scoring Categories
 
 * (S) steel-manning. Undertake an extensive criticism of a point of view in which you attempt to articulate the strongest case for the view against which you are arguing. For example, Scott Alexander’s book review of Freddie deBoer.
 
