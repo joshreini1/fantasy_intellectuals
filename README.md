@@ -19,10 +19,13 @@ The following scoring mechanism is derived from Arnold Kling, stated in his post
 
 A scoring category should be a quantifiable indicator of the qualities we want in an intellectual. Qualitatively, what we seek to do is reward those who:
 
-–put forth interesting ideas for discussion
-–try to persuade someone who might disagree, rather than simply rile up people who already agree
-–demonstrate a willingness to face up to the weaknesses of one’s own position and the best points that can be made by someone on the other side
-–make careful statements and tests them against evidence
+* put forth interesting ideas for discussion
+
+* try to persuade someone who might disagree, rather than simply rile up people who already agree
+
+* demonstrate a willingness to face up to the weaknesses of one’s own position and the best points that can be made by someone on the other side
+
+* make careful statements and tests them against evidence
 
 Rotisserie scoring will be used to ensure that each category matters. An owner cannot dominate a league by just picking intellectuals who pile up points in a single category.
 
