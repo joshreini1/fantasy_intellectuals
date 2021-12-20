@@ -13,7 +13,11 @@ The purpose of this project is to automate the scoring of FITs using modern natu
 
 Input data will eventually come from blogs, podcasts, books, articles and twitter. I will start with twitter because it is the most tractable to ingest.
 
+To collect tweets, I will use the search tweets  method to sample from tweets around specific topics. I will then manually tag a set of tweets to use as training data.
+
 ## Scoring
+
+Utilizing the manually generated training data, I will consider various multi-class text classification models including logistic regression, word2vec and linear support vector macine (LVSM). To evaluate the models, I will maximize precision because I am more concerned about anti-intellectualism being improperly rewarded given the natural inclination for these posts to spread.
 
 ### Scoring Philosophy
 
